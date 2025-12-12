@@ -1,53 +1,105 @@
- Hi, I'm Akash Chouhan
-A passionate Full Stack Developer from Bhopal, India, specializing in React, React Native, and modern backend technologies.
-Currently pursuing Full Stack Web Development at Masai School, I love building scalable web and mobile applications with clean UI/UX and optimized performance.
+👋 Hi, I'm Nikita
+
+A passionate Web Developer & Life Skills Coordinator from Kishanganj, Bihar, specializing in web development and interactive learning experiences.
+Currently pursuing Web Development at NavGurukul (SOP), I love creating clean, responsive web pages and helping students grow through life skill–based sessions.
 
 📝 Professional Summary
-Passionate and detail-oriented Full Stack Developer specializing in React.js, React Native, and backend technologies.
 
-Skilled in building responsive applications with React, React Native, Node.js, and Express
-Experienced with Firebase (Auth, Firestore, Realtime DB), secure authentication with JWT & bcrypt, and scalable APIs
-Strong foundation in JavaScript, HTML, CSS, MongoDB, and Redux
-Focused on writing clean, maintainable code and delivering seamless digital experiences across e-commerce, logistics, and real-time domains
+Dedicated and detail-oriented Web Developer with a strong interest in building user-friendly and responsive web pages.
+
+Skilled in HTML, CSS, JavaScript, SQL
+
+Strong foundation in UI structure, layout design, and responsive styling
+
+Experience teaching confidence-building, teamwork, and communication skills
+
+Fast learner with a positive attitude and consistent improvement mindset
+
+Passionate about clean design, problem-solving, and continuous learning
+
 🎓 Education
-Masai School, Bengaluru (Sep 2024 – Present)
-Full Stack Web Development
-Lakshmi Narain College of Technology Excellence, Bhopal (Jun 2020 – Jun 2024)
-Bachelor of Technology (CSE)
-💻 Technical Skills
-Languages: JavaScript (ES6+), Node.js, HTML5, CSS3
-Frameworks/Libraries: React, React Native, Redux, Express, Tailwind CSS
-Database/Backend: MongoDB, Firebase (Auth, Firestore, Realtime DB)
-Tools & Platforms: Git, GitHub, VS Code, Figma, Android Studio, Netlify
-🤝 Soft Skills
-Teamwork • Time Management • Adaptability • Communication • Problem-Solving
+NavGurukul (School of Programming - SOP)
+
+📅 2024 – Present
+📍 Kishanganj, Bihar
+Web Development Certification Program
+
+Marwari College
+
+📅 2022 – 2025
+Bachelor of Arts (BA)
+Affiliated with Purena University
+
+💼 Experience
+Life Skills Coordinator — NavGurukul
+
+📅 Aug 2024 – Jan 2025
+
+Conducted daily life skills sessions for students
+
+Focused on confidence-building, teamwork, communication, emotional awareness
+
+Helped students develop real-life problem-solving abilities
+
+Facilitated group activities to enhance leadership and collaboration
 
 🚀 Projects
-📚 Book Nest
-React, Node.js, Express, MongoDB, Firebase
+📚 Group Project — NavGurukul
 
-Full-stack book management platform with CRUD features
-Secure authentication with JWT & bcrypt; optimized MongoDB queries
-Responsive UI with React + real-time updates using Firebase
-Smooth, device-friendly navigation for better UX
-🛒 Trexo Grocery App
-React Native, Firebase, Redux
+🔗 Add your project link here
+Web project built collaboratively using HTML, CSS, and JavaScript.
+Focused on teamwork, coding logic, and clean UI.
 
-Grocery delivery app with Google Sign-In and OTP login
-Real-time Firebase sync ensuring smooth user experience
-Designed catalog + checkout flow with clean, responsive UI
-User-friendly product catalog and seamless checkout
-🚚 FleetManagerPro - Logistics & Transportation
-Node.js, Express, MongoDB, React
+💻 Technical Skills
 
-Logistics system for tracking fleets, drivers, and shipments
-Role-based authentication for admins and users
-Dashboards and reports for efficient monitoring
-🛍 Minimart UI
-A clean, responsive e-commerce front-end interface
-• Built with React Native, Redux | Emphasis on UI/UX and modular components
+Languages & Tools:
+
+HTML
+
+CSS
+
+JavaScript
+
+SQL
+
+Soft Skills:
+
+Communication
+
+Leadership
+
+Time Management
+
+Problem-Solving
+
+Teamwork
+
+Presentation Skills
 
 🏆 Certifications
-Construct Week Project – Masai School
-x to 10x Hackathon Participation – Masai School
 
+Freedom Employment Academy — 10 Jan – 26 July 2024
+🔗 Add link
+
+YFS Virtual Internship — 20 Oct 2025
+🔗 Add link
+
+AI Fundamentals — 25 July 2025
+🔗 Add link
+
+🌐 Languages
+
+Hindi
+
+English
+
+Bangoli
+
+📞 Contact
+
+📍 Kishanganj, Bihar
+📧 nikita24@navgurukul.org
+
+📱 +91 92634 90529
+🔗 GitHub: Add your username link here
+🔗 LinkedIn: Add profile link here
